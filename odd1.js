@@ -11,7 +11,3 @@ var num_b=11;
 
 print(num_a+" is odd is "+isOdd(num_a));
 print(num_b+" is odd is "+isOdd(num_b));
-
-print("looks good Mawm");
-
-print("Go back to bed");
