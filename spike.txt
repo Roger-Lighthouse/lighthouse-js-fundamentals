@@ -1,3 +1,5 @@
-Spike is retarded
+var mack=[];
 
-So is crap
+mack.push('nut');
+
+console.log
